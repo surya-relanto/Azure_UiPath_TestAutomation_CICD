@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: Agent Azure
+pool: Azure Agent
 
 steps:
 - script: echo Hello, world!
